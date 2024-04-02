@@ -1,1 +1,12 @@
+│  .gitignore
+│  LICENSE
+│  main.py
+│  README.md
+│  requirements.txt
+│  test.py
+│  user_setting.py
+│  
+├─.github
+│  └─workflows
+│          tnp.yml
 
